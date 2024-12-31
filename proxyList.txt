@@ -206,6 +206,16 @@
 52.187.95.20,2053,SG,Microsoft Azure
 8.222.220.81,25435,SG,Alibaba
 8.222.243.73,26385,SG,Alibaba
+97.74.82.87,45837,SG,GoDaddy.com, LLC
+84.247.49.211,8443,SG,M247 Europe
+43.156.253.94,443,SG,Tencent cloud computing
+82.197.69.135,43536,SG,Contabo Asia Private
+47.236.22.194,52324,SG,Alibaba
+168.138.162.187,443,SG,Oracle Cloud
+8.219.1.169,443,SG,Alibaba
+8.222.212.110,1103,SG,Alibaba
+62.72.46.14,8443,SG,Contabo Asia Private
+5.34.176.119,81,SG,Green Floid
 83.142.30.4,2096,SG,Streamline Servers
 83.142.30.5,2096,SG,Streamline Servers
 91.192.81.154,2053,SG,Melbikomas UAB
@@ -313,13 +323,3 @@
 152.69.206.115,21552,JP,Oracle Cloud
 117.18.134.138,29653,JP,Ztv Co
 117.18.134.138,34841,JP,Ztv Co
-97.74.82.87,45837,SG,GoDaddy.com, LLC
-84.247.49.211,8443,SG,M247 Europe
-43.156.253.94,443,SG,Tencent cloud computing
-82.197.69.135,43536,SG,Contabo Asia Private
-47.236.22.194,52324,SG,Alibaba
-168.138.162.187,443,SG,Oracle Cloud
-8.219.1.169,443,SG,Alibaba
-8.222.212.110,1103,SG,Alibaba
-62.72.46.14,8443,SG,Contabo Asia Private
-5.34.176.119,81,SG,Green Floid
