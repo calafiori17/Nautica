@@ -306,7 +306,6 @@
 168.138.213.15,36008,JP,Oracle Cloud
 219.111.17.202,443,JP,Internet Initiative Japan
 132.145.120.167,37044,JP,Oracle Cloud
-192.169.127.184,443,US,Zenlayer
 172.104.84.139,587,JP,Akamai Connected Cloud
 38.180.29.115,443,JP,M247 Europe
 43.239.249.54,443,JP,xTom Japan Co
