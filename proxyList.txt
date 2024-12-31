@@ -226,7 +226,6 @@
 149.28.22.198,2053,JP,Vultr
 149.28.22.198,8443,JP,Vultr
 13.230.34.30,443,JP,Amazoncom
-202.144.192.76,443,HK,IPTELECOM Global
 132.145.124.43,12502,JP,Oracle Cloud
 125.204.173.119,10206,JP,NTT
 158.101.146.3,44872,JP,Oracle Cloud
@@ -251,11 +250,7 @@
 141.147.161.249,51037,JP,Oracle Cloud
 89.187.160.66,8443,JP,Datacamp
 23.106.130.200,80,JP,IT7 Networks Inc
-45.159.51.121,32199,MY,Kaopu Cloud Hk Limited
-45.12.134.204,2053,CY,Stark Industries Solutions
 5.253.41.40,8443,JP,Stark Industries Solutions
-45.12.134.204,8443,CY,Stark Industries Solutions
-45.12.134.149,2053,CY,Stark Industries Solutions
 5.253.41.40,2053,JP,Stark Industries Solutions
 94.177.131.183,2053,JP,G-Core Labs SA
 202.182.125.193,2053,JP,Vultr
