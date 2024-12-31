@@ -11,6 +11,8 @@
 103.186.1.209,2053,ID,Pt Cloud Hosting Indonesia
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 172.232.239.147,587,ID,Akamai Technologies  Inc
+43.218.77.16,403,ID,Amazon Indonesia
+203.194.112.119,8443,ID,FCCGI 
 43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
 154.91.84.10,8443,SG,TERAEXCH
 45.87.103.154,57012,SG,Amazon.com
